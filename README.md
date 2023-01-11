@@ -38,6 +38,8 @@ A Flutter plugin that provides a WebView widget.
 Tools to write binaries that run builders.
 4. Mockito<br />
 A mock framework inspired by Mockito.
+5. Provider<br />
+The provider package is easy to understand and it doesn't use much code. It also uses concepts that are applicable in every other approach
 
 ## Tech Stack
 
